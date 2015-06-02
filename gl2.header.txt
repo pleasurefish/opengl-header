@@ -1,0 +1,3 @@
+https://www.khronos.org/registry/gles/api/GLES2/gl2platform.h
+https://www.khronos.org/registry/gles/api/GLES2/gl2.h
+https://www.khronos.org/registry/gles/api/GLES2/gl2ext.h

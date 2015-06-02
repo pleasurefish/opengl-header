@@ -1,0 +1,3 @@
+https://www.khronos.org/registry/gles/api/GLES3/gl3.h
+https://www.khronos.org/registry/gles/api/GLES3/gl3platform.h
+https://www.khronos.org/registry/gles/api/GLES3/gl31.h

@@ -1,0 +1,4 @@
+https://www.khronos.org/registry/gles/api/GLES/egl.h
+https://www.khronos.org/registry/gles/api/GLES/glplatform.h
+https://www.khronos.org/registry/gles/api/GLES/glext.h
+https://www.khronos.org/registry/gles/api/GLES/gl.h
